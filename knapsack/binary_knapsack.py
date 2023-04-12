@@ -6,7 +6,7 @@ n = 4
 #weight of items
 w = [0,2,3,4,5]
 #profit of item
-v = [0,50,19,23,28]
+v = [0,16,19,23,28]
 #capacity of Knapsack
 K = 7
 def knapsack(w,v,K):
